@@ -10,7 +10,7 @@ This project implements four Constraint Satisfaction Problem (CSP) tasks:
 ## Files
 
 - `csp_core.py`: Generic CSP solver (backtracking + MRV + forward checking)
-- `map_coloring_australia.py`: Australia map-color CSP model
+- `map_coloring_australia.py`: Australia map-color CSP model with image
 - `map_coloring_telangana.py`: Telangana 33-district map-color CSP model
 - `sudoku_csp.py`: Sudoku CSP model and solver
 - `cryptarithmetic_two_two_four.py`: Cryptarithmetic CSP model and solver

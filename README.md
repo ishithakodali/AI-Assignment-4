@@ -36,8 +36,7 @@ python main.py --problem crypt
 Run Sudoku with your own 9x9 puzzle (`0` for blanks):
 
 ```bash
-python main.py --problem sudoku --sudoku \
-003020600 900305001 001806400 008102900 700000008 006708200 002609500 800203009 005010300
+python main.py --problem sudoku --sudoku 003020600 900305001 001806400 008102900 700000008 006708200 002609500 800203009 005010300
 ```
 
 ## Notes
